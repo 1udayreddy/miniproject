@@ -1,0 +1,20 @@
+.all1{
+    display:flex;
+    margin-left: 15px;
+    font-size: 50px;
+    color: blue;
+
+}
+#rollbutton{
+    display: flex;
+    margin-top: 10px;
+    font-size: 50px;
+    background-color: #fff;
+    color: blueviolet;
+}
+#rollbutton:hover{
+    cursor: pointer;
+    border-color: rgb(194, 16, 16);
+    background-color: rgb(136, 228, 118);
+box-shadow: 0 0 10px 10px salmon;
+}
